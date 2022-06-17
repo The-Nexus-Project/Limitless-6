@@ -13,7 +13,7 @@ body:
     attributes:
       label: What happened?
       description: A short explanation of what happened.
-      value: ""
+      value: "A bug happened!"
     validations:
       required: true
   - type: checkboxes
