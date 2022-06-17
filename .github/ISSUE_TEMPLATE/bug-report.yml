@@ -14,7 +14,7 @@ body:
     attributes:
       label: What happened?
       description: A short explanation of what happened.
-      value: "A bug happened!"
+      value: " "
     validations:
       required: true
   - type: textarea
