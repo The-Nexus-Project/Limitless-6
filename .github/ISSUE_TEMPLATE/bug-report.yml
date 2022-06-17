@@ -7,15 +7,21 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting!
+        Thank you for reporting!
   - type: textarea
     id: what-happened
     attributes:
       label: What happened?
-      description: What did you expect to happen?
-      value: "Description here."
+      description: A short explanation of what happened.
+      value: ""
     validations:
       required: true
+  - type: textarea
+    id: versionpack
+    attributes:
+      label: Pack Version
+      description: Put the pack version you are on here.
+      render: shell
   - type: checkboxes
     id: addedmods
     attributes:
@@ -39,4 +45,10 @@ body:
     attributes:
       label: Relevant log output / crash report.
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: textarea
+    id: anything
+    attributes:
+      label: Anything else that we should know?
+      description: Optional.
       render: shell
