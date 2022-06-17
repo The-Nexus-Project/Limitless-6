@@ -24,7 +24,7 @@ body:
         - label: Using OptiFine
         - label: Using Rubidium
         - label: Using Rubidium + Oculus
-        - label: No.
+        - label: No. None of them. Unmodified.
           required: true
   - type: checkboxes
     id: server
