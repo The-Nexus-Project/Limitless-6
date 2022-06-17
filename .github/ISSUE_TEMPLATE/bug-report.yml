@@ -9,7 +9,7 @@ body:
       value: |
         Thank you for reporting!
   - type: textarea
-    id: what-happened
+    id: whathappened
     attributes:
       label: What happened?
       description: A short explanation of what happened.
