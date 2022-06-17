@@ -26,27 +26,17 @@ body:
         - label: Using Rubidium + Oculus
         - label: No. None of them. Unmodified.
           required: true
-  - type: dropdown
-    id: browsers
+  - type: checkboxes
+    id: server
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
+      label: Are you on a Server?
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - label: Yes.
+        - label: No.
+          required: true
   - type: textarea
     id: logs
     attributes:
-      label: Relevant log output
+      label: Relevant log output / crash report.
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
