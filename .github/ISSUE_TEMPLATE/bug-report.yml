@@ -1,6 +1,7 @@
 name: Bug Report
 description: A report about an issue, crash or similar.
 title: "[Issue]: "
+labels: ["issue"]
 assignees:
   - Gbergz
 body:
