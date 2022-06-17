@@ -23,8 +23,7 @@ body:
       label: Pack Version
       description: Put the pack version you are currently on here.
       value: "Version: "
-body:
-- type: textarea
+  - type: textarea
   id: repro
   attributes:
     label: Reproduction steps
