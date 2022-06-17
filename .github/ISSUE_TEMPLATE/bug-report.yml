@@ -1,0 +1,42 @@
+name: Bug Report
+description: A report about an issue, crash or similar.
+title: "[Issue]: "
+assignees:
+  - Gbergz
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect to happen?
+      value: "Description here."
+    validations:
+      required: true
+  - type: checkboxes
+    id: addedmods
+    attributes:
+      label: Are you using OptiFine, Rubidium, or Oculus?
+      options:
+        - label: Using OptiFine
+        - label: Using Rubidium
+        - label: Using Rubidium + Oculus
+        - label: No.
+          required: true
+  - type: checkboxes
+    id: server
+    attributes:
+      label: Are you on a Server?
+      options:
+        - label: Yes.
+        - label: No.
+          required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output / crash report.
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
