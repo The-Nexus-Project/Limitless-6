@@ -16,6 +16,12 @@ body:
       value: "A bug happened!"
     validations:
       required: true
+  - type: textarea
+    id: packversion
+    attributes:
+      label: Pack Version
+      description: Put the pack version you are currently on here.
+      value: "Version: "
   - type: checkboxes
     id: addedmods
     attributes:
