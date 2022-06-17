@@ -9,14 +9,14 @@ body:
       value: |
         Thank you for reporting!
   - type: textarea
-    id: whathappened
+    id: what-happened
     attributes:
       label: What happened?
       description: A short explanation of what happened.
       value: ""
     validations:
       required: true
-  - type: checkboxes
+    - type: checkboxes
     id: addedmods
     attributes:
       label: Are you using OptiFine, Rubidium, or Oculus?
