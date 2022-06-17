@@ -28,11 +28,12 @@ body:
     attributes:
       label: To Reproduce
       description: Steps to reproduce the issue/error/crash, (steps can be edited)..
-      value: "1."
-      value: "2."
-      value: "3."
-      value: "4."
-      value: "..."
+      value: |
+      1.
+      2.
+      3.
+      ...
+    render: bash
   - type: checkboxes
     id: addedmods
     attributes:
