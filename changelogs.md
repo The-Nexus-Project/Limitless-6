@@ -1,3 +1,105 @@
+<h1>v0.4.0</h1>
+
+**Mod additions. Fixes, some changes + more!**
+
+**EXPECT BREAKING CHANGES/UPDATES GOING FORWARD, PLAY WITH CARE. STILL IN AN EARLY PHASE!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Absent by Design](https://www.curseforge.com/minecraft/mc-mods/absent-by-design)
+- [Advanced Generators](https://www.curseforge.com/minecraft/mc-mods/advanced-generators) (+ [BdLib](https://www.curseforge.com/minecraft/mc-mods/bdlib))
+- [Awesome Dungeon - Nether](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-forge)
+- [Awesome Dungeon - Ocean](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-forge)
+- [Awesome Dungeon - The End](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-forge)
+- [Awesome Dungeon](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-forge)
+- [Better Spawner Control](https://www.curseforge.com/minecraft/mc-mods/better-spawner-control)
+- [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+- [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
+- [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
+- [Easy Elytra Takeoff](https://www.curseforge.com/minecraft/mc-mods/easy-elytra-takeoff)
+- [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful)
+- [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) (+ [CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8))
+- [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
+- [Entangled](https://www.curseforge.com/minecraft/mc-mods/entangled)
+- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass)
+- [Fertilization](https://www.curseforge.com/minecraft/mc-mods/fertilization)
+- [FlickerFix](https://www.curseforge.com/minecraft/mc-mods/flickerfix)
+- [Fps Reducer 2](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
+- [Get It Together Drops](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops)
+- [GoProne](https://www.curseforge.com/minecraft/mc-mods/goprone)
+- [Guns Without Roses](https://www.curseforge.com/minecraft/mc-mods/guns-without-roses)
+- [Item Highlighter](https://www.curseforge.com/minecraft/mc-mods/item-highlighter)
+- [Just Zoom](https://www.curseforge.com/minecraft/mc-mods/just-zoom-forge)
+- [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
+- [Login Protection](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+- [Measurements](https://www.curseforge.com/minecraft/mc-mods/measurements)
+- [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
+- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
+- [Paintings++](https://www.curseforge.com/minecraft/mc-mods/paintings)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+- [Pedestals](https://www.curseforge.com/minecraft/mc-mods/pedestals)
+- [Portable Tanks](https://www.curseforge.com/minecraft/mc-mods/portable-tanks)
+- [Randomite Classic](https://www.curseforge.com/minecraft/mc-mods/randomite-classic)
+- [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
+- [Rings of Ascension](https://www.curseforge.com/minecraft/mc-mods/rings-of-ascension)
+- [Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear)
+- [ServerConfig Updater](https://www.curseforge.com/minecraft/mc-mods/serverconfig-updater)
+- [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)
+- [Super Factory Manager](https://www.curseforge.com/minecraft/mc-mods/super-factory-manager)
+- [Tesseract](https://www.curseforge.com/minecraft/mc-mods/tesseract)
+- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips)
+- [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper)
+- [Void Totem](https://www.curseforge.com/minecraft/mc-mods/voidtotem)
+- [Wireless Chargers](https://www.curseforge.com/minecraft/mc-mods/wireless-chargers)
+
+
+**Removed**
+- [Ok Zoomer Forge](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge)
+
+
+**Changes**
+- Added a **Hammer & Cutter** which are **used** in **various crafting recipes**.
+- Disabled **mobs spawning** w/ **Jukebox Backpack Upgrade**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Various fixes in mod updates.
+
+
+**Updated**
+- **Forge** from version **41.0.37** to **41.0.45**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**NOTE!**
+- Currently there's an **issue** with **worlds** and **servers** taking a **really long time to load**. <br />
+This is **known** and is most **likely** a **Minecraft issue**!
+
+
+
+**Current Forge Version**
+- 41.0.35
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.3.0</h1>
 
 **Bunch of mod additions. More fixes, changes + more!**
