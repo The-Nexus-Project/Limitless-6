@@ -84,7 +84,7 @@ This is **known** and is most **likely** a **Minecraft issue**!
 
 
 **Current Forge Version**
-- 41.0.35
+- 41.0.45
 
 
 **Reporting Issues**
