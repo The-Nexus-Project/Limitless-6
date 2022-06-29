@@ -1,3 +1,84 @@
+<h1>v0.5.0</h1>
+
+**Integrated Series, Occultism, Nature's Aura + More!**
+
+**BREAKING CHANGES/UPDATES COULD HAPPEN, PLAY WITH CARE!** <br />
+**STILL IN AN EARLY PHASE!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+- [Builder's Delight](https://www.curseforge.com/minecraft/mc-mods/builders-delight-forge)
+- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+- [Darker Depths](https://www.curseforge.com/minecraft/mc-mods/darker-depths)
+- [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)
+- [I Know What I'm Doing](https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing)
+- [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting) (+ [Common Capabilities](https://www.curseforge.com/minecraft/mc-mods/common-capabilities))
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)
+- [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
+- [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)
+- [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
+- [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+- [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)
+- [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)
+- [Slab Machines](https://www.curseforge.com/minecraft/mc-mods/slab-machines)
+- [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (+ [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/supplementaries))
+- [The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge)
+- [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors)
+- [Windowlogging](https://www.curseforge.com/minecraft/mc-mods/windowlogging)
+
+
+**Removed**
+- [Nyf's Quivers](https://www.curseforge.com/minecraft/mc-mods/nyfs-quivers)
+
+
+**Changes**
+- **Full Ore Blocks** now have a **50% extra chance** to get an **additional Dust** in the **Macerator**.
+- Added **Armor & Tools** for the following materials: **Emerald, Flint, Lead, Silver & Tin**.
+- Updated textures for all **plates** & a **few other items**.
+- Buffed **Raw Ore Processing** in the **Macerator**.
+- Changes in mod updates.
+
+
+**Fixes**
+- **GUI Scale** resetting each time the **pack** loads has been **fixed**.
+- Fixed some **recipe conflicts**.
+- Fixed a few **tag issues**.
+- Various fixes in mod updates.
+
+
+**Updated**
+- **Forge** from version **40.1.48** to **40.1.62**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**NOTE!**
+- Currently there's an **issue** with **worlds** and **servers** taking a **really long time to load**. <br />
+This is **known** and is most **likely** a **Forge / maybe a Minecraft issue(?)**!
+
+
+
+**Current Forge Version**
+- 40.0.62
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.4.0</h1>
 
 **Mod additions. Fixes, some changes + more!**
