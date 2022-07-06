@@ -26,7 +26,7 @@
 
 
 **Removed**
-- [Straw Golem Rebaled](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)- (**Causes too many issues right now.**)
+- [Straw Golem Rebaled](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn) - (**Causes too many issues right now.**)
 
 
 **Changes**
