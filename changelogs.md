@@ -18,7 +18,7 @@
 - [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds)
 - [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
-- [Elemental Craft](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (+ [DataPack Anvil](https://www.curseforge.com/minecraft/mc-mods/citadel))
+- [Elemental Craft](https://www.curseforge.com/minecraft/mc-mods/elemental-craft) (+ [DataPack Anvil](https://www.curseforge.com/minecraft/mc-mods/citadel))
 - [Framed Compacting Drawers](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers)
 - [Jump Over Fences](https://www.curseforge.com/minecraft/mc-mods/jump-over-fences-forge)
 - [Plain Grinder](https://www.curseforge.com/minecraft/mc-mods/plain-grinder)
