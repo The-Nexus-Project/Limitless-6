@@ -1,3 +1,72 @@
+<h1>v0.6.0</h1>
+
+**Ars Nouveau, Alex's Mobs, Elemental Craft & More!**
+
+**BREAKING CHANGES/UPDATES COULD HAPPEN, PLAY WITH CARE!** <br />
+**STILL IN AN EARLY PHASE!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Additional Lanterns](https://www.curseforge.com/minecraft/mc-mods/additional-lanterns)
+- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (+ [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel))
+- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) (+ [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental-elemental-spell-foci) **&** [Ars Instrumentum](https://www.curseforge.com/minecraft/mc-mods/ars-instrumentum))
+- [Basic Nether Ores](https://www.curseforge.com/minecraft/mc-mods/basic-nether-ores)
+- [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies) (+ [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api))
+- [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix)
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds)
+- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [Elemental Craft](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (+ [DataPack Anvil](https://www.curseforge.com/minecraft/mc-mods/citadel))
+- [Framed Compacting Drawers](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers)
+- [Jump Over Fences](https://www.curseforge.com/minecraft/mc-mods/jump-over-fences-forge)
+- [Plain Grinder](https://www.curseforge.com/minecraft/mc-mods/plain-grinder)
+- [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+
+
+**Removed**
+- [Straw Golem Rebaled](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn)- (**Causes too many issues right now.**)
+
+
+**Changes**
+- Added **Saplings** from **Blue Skies, Ars Nouveau & Integrated Dynamics** to the **FfB's Market**.
+- Added a bunch more **Ore Processing** compat to **various machines**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Various fixes in mod updates.
+
+
+**Updated**
+- **Forge** from version **40.1.62** to **40.1.63**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**NOTE!**
+- Currently there's an **issue** with **worlds** and **servers** taking a **REALLY long time to load**.. <br />
+This is **known** and is most **likely** a **Forge / maybe a Minecraft issue(?)**!
+
+
+
+**Current Forge Version**
+- 40.0.63
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.5.0</h1>
 
 **Integrated Series, Occultism, Nature's Aura + More!**
