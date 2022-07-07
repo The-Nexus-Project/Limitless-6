@@ -38,7 +38,8 @@ body:
         - label: Using Rubidium
         - label: Using Rubidium + Oculus
         - label: No. None of them. Unmodified.
-          required: true
+    validations:
+      required: true
   - type: checkboxes
     id: server
     attributes:
