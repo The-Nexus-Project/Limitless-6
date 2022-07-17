@@ -12,7 +12,7 @@
 
 
 **Removed**
-- No mods removed.
+- [Potion Bundles](https://www.curseforge.com/minecraft/mc-mods/potion-bundles)
 
 
 **Changes**
