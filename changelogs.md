@@ -1,3 +1,56 @@
+<h1>v0.6.1</h1>
+
+**This is a very small update which only adds Quark & TIAB.** <br />
+**Next update will most likely be awhile, but it will be a breaking one due to breaking forge changes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (+ [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
+- [Time in a Bottle](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle-standalone)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- No major changes.
+
+
+**Fixes**
+- Fixed **Content Overlap** with the **Azalea Wood Type**. (**Merged Quark with Ecologics.**)
+- Minor fixes.
+
+
+**Updated**
+- No mods updated.
+
+
+**NOTE!**
+- Currently there's an **issue** with **worlds** and **servers** taking a **REALLY long time to load**.. <br />
+This is **known** and is most **likely** a **Forge / maybe a Minecraft issue(?)**!
+
+
+
+**Current Forge Version**
+- 40.0.63
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.6.0</h1>
 
 **Ars Nouveau, Alex's Mobs, Elemental Craft & More!**
