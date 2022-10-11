@@ -1,3 +1,57 @@
+<h1>v1.0.0</h1>
+
+**Full 1.0.0 release! Pack rebuilt from the ground up on 1.19.2!**
+
+**Worlds from all previous versions are no longer compatible.**
+
+**Enjoy!**
+
+**- TNP Team, Gbergz.**
+
+
+**Added**
+- Lots of mods have been added since previous versions, too many to write down.
+
+
+**Removed**
+- There might be some mods removed from the previous versions, but then again, lost track.
+
+
+**Changes**
+- Lots of changes, both in configs & in mods and in the pack in general.
+
+
+**Fixes**
+- There been probably has lots of fixes in mods, but again, too many to write down.
+
+
+**Quests**
+- Lots of quests have been added, with ofcourse your favorite Loot Bags, though this time called they're "Loot Bundles"!
+- More quests will ofcourse get added over time.
+
+
+**Notes**
+- Note that there could be issues, stuff might not work as intended, crashes, etc. 
+- Report issues when you find them.
+
+
+**Current Forge Version**
+- 43.1.34
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.6.1</h1>
 
 **This is a very small update which only adds Quark & TIAB.** <br />
