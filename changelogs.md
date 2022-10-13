@@ -1,3 +1,66 @@
+<h1>v1.1.0</h1>
+
+**New Fishies, New Froggies, Diagonal Fences & More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge)
+- [Diagonal Fences](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
+- [Fish of Thieves](https://www.curseforge.com/minecraft/mc-mods/fish-of-thieve)
+- [More Frogs](https://www.curseforge.com/minecraft/mc-mods/more-frogs-fabric)
+- [Universal Enchants](https://www.curseforge.com/minecraft/mc-mods/universal-enchants-forge)
+
+
+**Removed**
+- [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
+
+
+**Changes**
+- **Enchantment Descriptions** can now be **seen** on **items** vs just on **books**.
+- **Blacklisted** some **items** from **dropping** from **Loot Bundles**.
+- **Blacklisted** some **GUIs** to not include **sort buttons**.
+- **Fences** can now be **placed** and **connected diagonally**.
+- You can now **climb** ladders **downwards faster**.
+- Some **changes** in **mod updates**.
+
+
+**Fixes**
+- Fixed **scrolling items** in **inventory** to **containers** taking **2 items** at **once** instead of **1**.
+- Many **recipes** in **@Refined Storage** being **uncraftable** has been **fixed**.
+- Fixed **Tips** displaying **tips** of **mods** that are **not** in the **pack**.
+- **Crashes** tied to **Straw Statues** on **servers** are now **fixed**.
+- **Crashes** tied to the **XP Obelisk** are now **fixed**.
+- Some **fixes** in **mod updates**, as always.
+
+
+**Quests**
+- Minor **changes**.
+
+
+**Updated**
+- **Forge** from version **43.1.34** to **43.1.39**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.1.39
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.0.0</h1>
 
 **Full 1.0.0 release! Pack rebuilt from the ground up on 1.19.2!**
