@@ -2,6 +2,8 @@
 
 **New Fishies, New Froggies, Diagonal Fences & More!**
 
+**[!] SERVER FILES DIRECT DOWNLOAD: [CLICK ME](https://mediafilez.forgecdn.net/files/4028/0/LL6+Full+Server+Files+v1.1.0.zip) !**
+
 **Always remember to backup your world(s) before updating!**
 
 
