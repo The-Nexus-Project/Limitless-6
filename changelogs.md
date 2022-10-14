@@ -9,6 +9,9 @@
 - A **critical crash loop issue** tied to **@Essentials Redstone Receivers & Transmitters** has been **fixed**.
 
 
+**Updated**
+- Updated **1** mod.
+
 **Current Forge Version**
 - 43.1.39
 
