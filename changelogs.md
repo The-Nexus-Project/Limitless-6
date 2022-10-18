@@ -1,3 +1,90 @@
+<h1>v1.2.0</h1>
+
+**Big update! Tons of new mods, changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Note**
+- There **might** be some **generation oddities** in **new chunks** because of a **recent update** to **@Biomes O' Plenty**!
+
+
+**Added**
+- [Bartering Station](https://www.curseforge.com/minecraft/mc-mods/bartering-station)
+- [Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
+- [Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+- [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+- [Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments)
+- [Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+- [Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts)
+- [Click Machine](https://www.curseforge.com/minecraft/mc-mods/click-machine)
+- [CobbleForDays](https://www.curseforge.com/minecraft/mc-mods/cobblefordays)
+- [Curios Quark Oddities Backpack](https://www.curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack)
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+- [Gateways to Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eterrnity)
+- [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
+- [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage)
+- [Leaves Be Gone](https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone)
+- [More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+- [Packages](https://www.curseforge.com/minecraft/mc-mods/packages)
+- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
+- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
+- [Tiny Gates](https://www.curseforge.com/minecraft/mc-mods/tiny-gates)
+- [Tiny Pipes](https://www.curseforge.com/minecraft/mc-mods/tiny-pipes)
+- [Tiny Redstone](https://www.curseforge.com/minecraft/mc-mods/tiny-redstone)
+- [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast)
+- [Wither Skeleton Tweaks](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)
+- [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras) (+ [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api))
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- You can **now once again** check for **light-levels** by clicking **F7**.
+- Added **support** for **modded saplings** to the **@FFB - Market**.
+- Added a **bunch** of **@SilentGear - Salvaging** recipes.
+- **Leaves** now **decay quickly** upon **harvesting trees**.
+- Changed the **texture** for **Silver Ore**.
+- **Re-enabled** the **@Quark - Backpack**.
+- Some **changes** in **mod updates**.
+
+
+**Fixes**
+- **Crashes** tied to opening **@IT - Storage Terminals** on **servers** has been **fixed**.
+- Fixed some **ore processing** recipes **outputting** the **wrong items**.
+- Fixed **"rubber banding" lag** when **tps** is **dipping considerably**.
+- Fixed **recipe conflicts** with some **Storage Blocks**.
+- Fixed the **Discord Rich Presence status**.
+- Some **fixes** in **mod updates**, as always.
+
+
+**Quests**
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.1.39
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.1.1</h1>
 
 **Fixes a crash loop issue.**
