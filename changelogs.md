@@ -1,3 +1,69 @@
+<h1>v1.3.0</h1>
+
+**Apotheosis, Industrial Foregoing, Hexerei & More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Applied Cooking](https://www.curseforge.com/minecraft/mc-mods/applied-cooking)
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+- [Beautify](https://www.curseforge.com/minecraft/mc-mods/beautify-decorate)
+- [Caupona](https://www.curseforge.com/minecraft/mc-mods/caupona)
+- [Chargers](https://www.curseforge.com/minecraft/mc-mods/chargers)
+- [Corail Adventurer](https://www.curseforge.com/minecraft/mc-mods/corail-adventure)
+- [Hexerei](https://www.curseforge.com/minecraft/mc-mods/hexerei)
+- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Xegonite Shards** no longer drop from **ores**, instead added a **recipe**.
+- Added **support** for various **saplings** and **seeds** in **@Botany Pots**.
+- New **Official Server** opened, **added** to **server list** by **default**.
+- Lowered **spawn weight** for **Glare** & **Stonelings**.
+- **Disabled** the **Enchantment**: **Excavate**.
+- Some **changes** in **mod updates**, as always.
+
+
+**Fixes**
+- A **crash** when **re-entering** a **server** after **disconnecting** has been **fixed**.
+- **Modded ores** not **spawning** the **Mining Dimension** has been **fixed**.
+- Some **fixes** in **mod updates**, as always.
+
+
+**Quests**
+- **Re-Added** a **Chapter**: **Apotheosis** + **added** some **new quests** to it.
+- **Re-Added** a **Chapter**: **Hexerei**. (**Chapter By: MokahTGS.**)
+- **Re-Added** a **Chapter**: **Industrial Foregoing**.
+- Minor **changes**.
+
+
+**Updated**
+- **Forge** from version **43.1.39** to **43.1.47**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.1.47
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.2.0</h1>
 
 **Big update! Tons of new mods, changes, fixes & more!**
