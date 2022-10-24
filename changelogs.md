@@ -1,3 +1,46 @@
+<h1>v1.3.3</h1>
+
+**Important fixes. Recommended to update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Removed**
+- [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils) (**Incompatible with Apotheosis, removed temporarily until fixed**.)
+
+
+**Changes**
+- Added **support** for the **Netherwood Sapling** in **@Botany Pots**.
+
+
+**Fixes**
+- Fixed **activating a jetpack** on a **server** with **operator permissions** resulting in a **debug area being generated**. - (**v1.3.2**)
+- A "**Ticking Entity - Can't find attribute**" crash has been **fixed**.
+- **Fixed** not **being able** to **open** the normal vanilla **Anvil**.
+- A "**Slot not in valid range**" crash has been **fixed**.
+
+
+**Updated**
+- Updated **3** mods.
+
+
+**Current Forge Version**
+- 43.1.47
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.3.0</h1>
 
 **Apotheosis, Industrial Foregoing, Hexerei & More!**
