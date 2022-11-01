@@ -1,3 +1,61 @@
+<h1>v1.4.0</h1>
+
+**Some mod additions, changes & fixes!**
+
+**Note: Any generators from the mod "@Iron Generators" will be erased from your world if you update**!
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Auto Feeder Helmet](https://www.curseforge.com/minecraft/mc-mods/auto-feeder-helmet)
+- [Generator Galore](https://www.curseforge.com/minecraft/mc-mods/generatorgalore)
+- [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
+- [Little Contraptions](https://www.curseforge.com/minecraft/mc-mods/little-contraptions)
+
+
+**Removed**
+- [Iron Generators](https://www.curseforge.com/minecraft/mc-mods/iron-generators) (**Replaced by @Generator Galore**.)
+
+
+**Changes**
+- **Lowered** the **operation cost** of the **Digital Miner**.
+- Some **changes** in **mod updates**, as always.
+
+
+**Fixes**
+- **CTRL + A** in the **JEI Search Bar** not **working** has been **fixed**.
+- A "**Ticking entity**" **crash** has been **resolved**.
+- Some **fixes** in **mod updates**, as always.
+
+
+**Quests**
+- **Renamed** the chapter "**Iron Furngens**" to "**Iron Galore**".
+- **Fixed** a **few typos**.
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.1.47
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.3.4</h1>
 
 **Another hotfix that fixes a common crash.**
