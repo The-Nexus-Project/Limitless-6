@@ -1,3 +1,58 @@
+<h1>v1.5.0</h1>
+
+**Dank Storage, some changes & fixes!**
+
+**Note: Geode+ is removed which means there will be random holes where Geode+ blocks used to be.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Dank Storage](https://www.curseforge.com/minecraft/mc-mods/dank-storage)
+
+
+**Removed**
+- [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic) (**Caused issues**.)
+- [Geode+](https://www.curseforge.com/minecraft/mc-mods/geode-forge-fabric) (**Crashes**.)
+
+
+**Changes**
+- Added a **recipe** for **Ink Sac**.
+- Some **changes** in **mod updates**, as always.
+
+
+**Fixes**
+- Fixed **Enchantment Table** not being able to do **high-level enchantments**.
+- Some **fixes** in **mod updates**, as always.
+
+
+**Quests**
+- Added a few **new quests** to the **Iron Galore** chapter.
+- Re-Added a **Mini-Chapter**: **Dank Storage**.
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.1.47
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.4.0</h1>
 
 **Some mod additions, changes & fixes!**
