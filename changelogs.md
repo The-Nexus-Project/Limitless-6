@@ -1,3 +1,66 @@
+<h1>v1.6.0</h1>
+
+**Deeper and Darker, Enigmatic Legacy, Faster Ladders, fixes & some changes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Climb Ladders Fast](https://www.curseforge.com/minecraft/mc-mods/climb-ladders-fast)
+- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)
+- [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils)
+- [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy)
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+- [OAuth](https://www.curseforge.com/minecraft/mc-mods/oauth)
+- [Rotten Creatures](https://www.curseforge.com/minecraft/mc-mods/rotten-creatures)
+- [SilentGear Compat](https://www.curseforge.com/minecraft/mc-mods/silentgear-compat)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Buffed** the **@Mekanism** "**Dynamic Tank**" **storage** for **Fluids** & **Chemicals**.
+- **Ladders** can now be **climbed faster**, **down** and **up**.
+- Some **changes** in **mod updates**, as always.
+
+
+**Fixes**
+- **Dank Storage** item slots "**being invisible**" / "**out of sync**" has been **fixed**.
+- **Fixed** some **@Reliquary** items like **Slime Pearl** not **dropping**.
+- Some **fixes** in **mod updates**, as always.
+
+
+**Quests**
+- **Fixed** a **dependency issue** in the **Iron Galore** chapter.
+- Re-Added a **Chapter**: **Enigmatic Legacy**.
+- Minor **changes**.
+
+
+**Updated**
+- **Forge** from version **43.1.47** to **43.1.52**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.1.52
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.5.0</h1>
 
 **Dank Storage, some changes & fixes!**
