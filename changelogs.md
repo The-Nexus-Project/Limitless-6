@@ -1,3 +1,72 @@
+<h1>v1.7.0</h1>
+
+**Big Update!**
+
+**Thermal Series, Ad Astra!, Hex Casting, new quests, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ad Astra!](https://www.curseforge.com/minecraft/mc-mods/ad-astra)
+- [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)
+- [Hex Casting](https://www.curseforge.com/minecraft/mc-mods/hexcasting)
+- [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
+- [Thermal Foundation ](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
+- [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)
+- [Thermal Integration](https://www.curseforge.com/minecraft/mc-mods/thermal-integration)
+- [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
+- [Thermal: Extra](https://www.curseforge.com/minecraft/mc-mods/thermal_extra)
+- [What's That Slot?](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)
+
+
+**Removed**
+- [More Frogs](https://www.curseforge.com/minecraft/mc-mods/more-frogs-fabric)
+
+
+**Changes**
+- You can now **query** which **items** can be **placed** in a **specific slot** by holding down **Left-Alt**.
+- Some **changes** in **mod updates**, as always.
+
+
+**Fixes**
+- Fixed vanilla **Lantern** not being **accepted** into some **multiblock structures**.
+- **Actually fixed** some **@Reliquary items** like the **Slime Pearl** not dropping.
+- Fixed a **rare case** where **duplicate ores** could **generate**.
+- Fixed "**Loot Bundle**" **advancement** not **triggering**.
+- Some **fixes** in **mod updates**, as always.
+
+
+**Quests**
+- Added a new **Chapter**: **Industrial Contraptions**.
+- Re-Added a **Chapter**: **Ad Astra!**
+- Re-Added a **Chapter**: **Hex Casting**.
+- Re-Added a **Chapter**: **Thermal Series**.
+- Minor **changes**.
+
+
+**Updated**
+- **Forge** from version **43.1.52** to **43.1.57**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.1.57
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.6.0</h1>
 
 **Deeper and Darker, Enigmatic Legacy, Faster Ladders, fixes & some changes!**
