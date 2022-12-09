@@ -1,3 +1,81 @@
+<h1>v1.8.0</h1>
+
+**Another big update!**
+
+**Lots of new mods, changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge)
+- [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+- [Jumbo Furnace](https://www.curseforge.com/minecraft/mc-mods/jumbo-furnace)
+- [Kobolds!](https://www.curseforge.com/minecraft/mc-mods/kobolds)
+- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
+- [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool)
+- [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+- [Observable](https://www.curseforge.com/minecraft/mc-mods/observable)
+- [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)
+- [Redstone Arsenal](https://www.curseforge.com/minecraft/mc-mods/redstone-arsenal)
+- [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod)
+- [Subterrestrial](https://www.curseforge.com/minecraft/mc-mods/subterrestrial)
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+- [Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)
+
+
+**Removed**
+- [Global Packs](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) - (Replaced by [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi).)
+
+
+**Changes**
+- Added some new **food items**: 
+<br />**Baked Apple**, **Roasted Carrot**, **Grilled Melon Slice**, **Golden Berries**, **Golden Melon Slice** & **Baked Glow Berries**.
+- Pretty much any **Toast popups** are now **half transparent**.
+- Added **Compressed Blocks** for common **Minecraft Blocks**.
+- Made **@PneumaticCraft Oil Lakes** less common.
+- Some new **worldgen structures**.
+- Some **changes** in **mod updates**, as always.
+
+
+**Fixes**
+- Fixed **duplicate RS disk** parts. Only **@MoreDisks** will be **craftable** now as it **should've been**.
+- Fixed duplicate **Enchantment Description** tooltips.
+- Fixed a few **recipe conflicts**.
+- Some **fixes** in **mod updates**, as always.
+
+
+**Quests**
+- Added **4** new **quests** to the **Adventure Chapter**.
+- Added **6** new **quests** to the **AE2 Chapter**.
+- Fixed a **few typos**.
+- Minor **changes**.
+
+
+**Updated**
+- **Forge** from version **43.1.57** to **43.2.0**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.7.0</h1>
 
 **Big Update!**
