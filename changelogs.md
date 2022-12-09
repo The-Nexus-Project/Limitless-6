@@ -42,7 +42,7 @@
 
 **Fixes**
 - Fixed **duplicate RS disk** parts. Only **@MoreDisks** will be **craftable** now as it **should've been**.
-- - **@Quark's** item sharing in the **chat** has been **fixed**.
+- **@Quark's** item sharing in the **chat** has been **fixed**.
 - Fixed duplicate **Enchantment Description** tooltips.
 - Fixed a few **recipe conflicts**.
 - Some **fixes** in **mod updates**, as always.
