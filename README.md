@@ -1,5 +1,5 @@
 # Limitless 6
-Limitless 6 modpack maintained and developed by Gbergz - *Operating on Minecraft 1.19!*
+Limitless 6 modpack maintained and developed by Gbergz - *Operating on Minecraft 1.19.2!*
 
 **CurseForge Page:** https://www.curseforge.com/minecraft/modpacks/tnp-limitless-6
 
