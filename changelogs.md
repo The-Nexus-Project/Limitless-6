@@ -1,3 +1,48 @@
+<h1>v1.10.0</h1>
+
+**Happy New Year everyone!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Macaw's Bridges - BYG](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-oh-the-biomes-youll-go)
+
+
+**Changes**
+- Some **changes** in **mod updates**, as always.
+
+
+**Fixes**
+- Some **fixes** in **mod updates**, as always.
+
+
+**Quests**
+- Updated the **Mekanism Chapter** a bit. (**Thanks @DasDaFez!**)
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.1</h1>
 
 **"Fixes" a critical issue tied to Silent Gear by removing an addon mod.**
