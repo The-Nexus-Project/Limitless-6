@@ -1,3 +1,61 @@
+<h1>v1.11.0</h1>
+
+**Mod updates, lots of fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- [It Shall Not Tick](https://www.curseforge.com/minecraft/mc-mods/it-shall-not-tick)
+
+
+**Changes**
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Fixed the **@AE2 - Annihilation Plane** & some **other items** not **being able** to be **enchanted**.
+- **Hoppers** not **outputting** into **Composters** and some **other blocks** has been **fixed**.
+- **Villagers** sometimes **not being able** to take **jobs** has been **fixed**.
+- A **client crash** on **Linux OS** has now **hopefully** been **resolved**.
+- Fixed a **Generator Galore** issue with some **generators**.
+- Fixed a small **duping issue** with **Coal Dust**.
+- Fixed **Wrenches** not **working properly**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Fixed **Welcome Quest** saying "**LL5**" and not "**LL6**". Oops.
+- Fixed a few **invalid rewards**.
+- Minor **changes**.
+
+
+**Updated**
+- **Forge** from version **43.2.0** to **43.2.3**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.3
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.0</h1>
 
 **Happy New Year everyone!**
