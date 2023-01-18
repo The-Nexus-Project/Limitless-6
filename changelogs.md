@@ -1,3 +1,61 @@
+<h1>v1.12.0</h1>
+
+**New mods, quite a few fixes, changes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Better Statistic Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats)
+- [EverlastingAbilities](https://www.curseforge.com/minecraft/mc-mods/everlastingabilities)
+- [Stone Chest](https://www.curseforge.com/minecraft/mc-mods/stone-chest)
+- [Witherbold](https://www.curseforge.com/minecraft/mc-mods/witherbold)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **support** for more **Tools & Armor** in the **@SilentGear Salvager**.
+- **Filtered** out some **items** from the **Loot Bundle loot table**.
+- Added a **"warning tooltip"** to the **Experience Obelisk**.
+- Added **missing tags** to some **custom foods** in **TNP**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- A **crash** tied to the **@TwilightForest Final Castle** has been **fixed**.
+- **Crashes** when **entering** other **dimensions** has been **fixed**.
+- A **specific crash** on **PCs** with **AMD GPUs** has been **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.3
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.0</h1>
 
 **Mod updates, lots of fixes & more!**
