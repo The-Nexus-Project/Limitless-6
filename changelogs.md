@@ -28,6 +28,7 @@
 - A **crash** tied to the **@TwilightForest Final Castle** has been **fixed**.
 - **Crashes** when **entering** other **dimensions** has been **fixed**.
 - A **specific crash** on **PCs** with **AMD GPUs** has been **fixed**.
+- Fixed **Rubber Seed** recipe.
 - Some **fixes** in **mod updates**, as **always**.
 
 
