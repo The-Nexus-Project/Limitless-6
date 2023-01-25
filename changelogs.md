@@ -26,6 +26,7 @@
 
 
 **Fixes**
+- **Servers** not **fully stopping** and **erroring** after **stopping** has been **fixed**.
 - Fixed **lots** of **recipes** providing "**empty tag**" as a **crafting result**.
 - A **rare crash** tied to the **Supplementaries Quiver** has been **fixed**.
 - Fixed **duplicate Ingots**, **Nuggets** etc in **@Ad Astra**.
