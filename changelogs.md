@@ -1,3 +1,65 @@
+<h1>v1.14.0</h1>
+
+**New mods, quite a few changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Applied Botanics Addon](https://www.curseforge.com/minecraft/mc-mods/applied-botanics-addon)
+- [Auto Smithing Table](https://www.curseforge.com/minecraft/mc-mods/auto-smithing-table)
+- [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)
+- [Create: Steam 'n Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
+- [Grass Overhaul](https://www.curseforge.com/minecraft/mc-mods/grass-overhaul)
+- [World Pre Generator](https://www.curseforge.com/minecraft/mc-mods/world-pre-generator)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **@Caupona**, **@Hexerei** & **@Croptopia Saplings** to the **@FfB Market**.
+- Added a new **button** called "**FPS**" to the **in-game** '**escape**' **menu**.
+- You **can** no **longer open** other **players backpacks** by **default**.
+- **Blacklisted** more **GUIs** to not **include** the **sort buttons**.
+- Disabled **@Quark Stoneling** & **Toretoise** spawns.
+- Added a **recipe** for **@Quark Heart of Diamond**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **@Expanded Storage** containers being **openable** in **non-owned claimed chunks** is now **fixed**.
+- Fixed **Loot Table mob drops** from **@Witherproofed** not **dropping**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Fixed** an **invalid reward** in the **Hex Casting Chapter**.
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.3
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.13.2</h1>
 
 **Always remember to backup your world(s) before updating!**
