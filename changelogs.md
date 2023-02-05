@@ -1,6 +1,8 @@
-<h1>v1.14.0</h1>
+<h1>v1.14.1</h1>
 
 **New mods, quite a few changes, fixes & more!**
+
+**( .1 changes included below. )**
 
 **Always remember to backup your world(s) before updating!**
 
@@ -29,6 +31,7 @@
 
 
 **Fixes**
+- **Fixed JEI not showing alll recipes, and a freezing issue. - (v1.14.1)**
 - **@Expanded Storage** containers being **openable** in **non-owned claimed chunks** is now **fixed**.
 - Fixed **Loot Table mob drops** from **@Witherproofed** not **dropping**.
 - Some **fixes** in **mod updates**, as **always**.
