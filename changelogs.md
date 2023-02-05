@@ -31,7 +31,7 @@
 
 
 **Fixes**
-- **Fixed JEI not showing alll recipes, and a freezing issue. - (v1.14.1)**
+- **Fixed JEI not showing all recipes, and a freezing issue. - (v1.14.1)**
 - **@Expanded Storage** containers being **openable** in **non-owned claimed chunks** is now **fixed**.
 - Fixed **Loot Table mob drops** from **@Witherproofed** not **dropping**.
 - Some **fixes** in **mod updates**, as **always**.
