@@ -1,3 +1,57 @@
+<h1>v1.15.0</h1>
+
+**Thermal Dynamics, Mystical Adaptations & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Mystical Adaptations](https://www.curseforge.com/minecraft/mc-mods/mystical-adaptations)
+- [Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics)
+- [Thermal Systeams](https://www.curseforge.com/minecraft/mc-mods/systeams)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **Salmonberry** support to **@Botany Pots**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Fixed **Shulker Shells** having **affixes** and **therefore** not being able to **stack**.
+- A **Digital Miner** crash has been **resolved**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Added **16** new quests to the **@Mystical Agriculture** Chapter.
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.3
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.14.1</h1>
 
 **New mods, quite a few changes, fixes & more!**
