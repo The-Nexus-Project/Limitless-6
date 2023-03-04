@@ -1,3 +1,57 @@
+<h1>v1.17.0</h1>
+
+**Two new mods, some changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Additional Lights](https://www.curseforge.com/minecraft/mc-mods/additional-lights)
+- [Night Lights](https://www.curseforge.com/minecraft/mc-mods/nightlights)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Drinking Milk** will now **remove** the **Bad Omen** effect as **intended**.
+- **Iron Golems** will now **spawn** in **newly generated villages** again.
+- **Witch Hats** will now **no longer** get **affixes**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **Sink & Fridge** (maybe more) **crashes** from **@CfB** has been **fixed**.
+- A **feeding slab crash** on some **systems** has been **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.3
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.16.0</h1>
 
 **Chisels & Bits, RFTools Dimensions & fixes + more!**
