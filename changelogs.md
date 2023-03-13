@@ -19,7 +19,7 @@
 - **Disabled** the **@Cyclic - Crafting Machine** due to **item duplication issues**.
 - **Added** a new **button** called "**Screenshots**" to the **in-game** '**pause**' **menu**.
 - **Most Ores** in the **Mining Dimension** now **generate** at **any height**.
-- **Added** all **Silent Gear + Gems** Ores** to the **Mining Dimension**.
+- **Added** all **Silent Gear + Gems Ores** to the **Mining Dimension**.
 - Removed **Tuff Generation** from the **Mining Dimension**.
 - **Framed Blocks** are now **completely fireproof**.
 - Some **changes** in **mod updates**, as **always**.
