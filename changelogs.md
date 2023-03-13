@@ -1,3 +1,63 @@
+<h1>v1.18.0</h1>
+
+**New mods, fixes, better mining dimension ore distrubution & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Chunk Sending](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
+- [Screenshot Viewer](https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer)
+- [Unstable Tools](https://www.curseforge.com/minecraft/mc-mods/unstable-tools)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Disabled** the **@Cyclic - Crafting Machine** due to **item duplication issues**.
+- **Added** a new **button** called "**Screenshots**" to the **in-game** '**pause**' **menu**.
+- **Most Ores** in the **Mining Dimension** now **generate** at **any height**.
+- **Added** all **Silent Gear + Gems** Ores** to the **Mining Dimension**.
+- Removed **Tuff Generation** from the **Mining Dimension**.
+- **Framed Blocks** are now **completely fireproof**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- The **Quark Config** getting **reset** each time a **server** or **client boots** is now **fixed**.
+- Fixed **Enchanting Table** not having the **@Apotheosis Enchanting System**.
+- A **@Small Ships crash** has been **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Minor **changes**.
+
+
+**Updated**
+- **Forge** from version **43.2.3** to **43.2.6**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.6
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.17.0</h1>
 
 **Two new mods, some changes, fixes & more!**
