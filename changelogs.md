@@ -1,3 +1,62 @@
+<h1>v1.19.0</h1>
+
+**Some changes & a few fixes!** <br />
+(**Note: Portable Tanks mod removed this update!**)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- [Portable Tanks](https://www.curseforge.com/minecraft/mc-mods/portable-tanks) <br />
+(**Removed due to issues with updating other mods. Can be re-added when fixed!**)
+
+
+**Changes**
+- **Added support** for the **Inferium Seed** in the **'@Thermal Series' Phytogenic Insolator**.
+- **Crafting** the **Eccentric Tome** will now **include** all **guide books**. (**Hopefully all**.)
+- **Crafting** a **Morphing Tool** will now **include** all **wrenches, etc**. (**Hopefully all**.)
+- Added **recipes** for the '**@Ad Astra**' - **Globes**.
+- Added a **flashy** new **generator** type: **Dirt**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **Fixed** a **few items** from '**@Create: Steam n Rails**' being **uncraftable**.
+- **Block Breaker** from '**@Cyclic**' being **uncraftable** is now **fixed**.
+- A '**@Chisels & Bits**' server timeout **crash** has been **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Fixed** a **task detection** issue in the '**@Hexerei**' chapter.
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.6
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.18.0</h1>
 
 **New mods, fixes, better mining dimension ore distrubution & more!**
