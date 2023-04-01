@@ -1,3 +1,61 @@
+<h1>v1.20.0</h1>
+
+**New mods, few changes & fixes.** <br />
+**(& no more rickroll.)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Nether Portal Accessibility](https://www.curseforge.com/minecraft/mc-mods/nether-portal-accessibility)
+- [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses)
+
+
+**Removed**
+- [Out Of Sight](https://www.curseforge.com/minecraft/mc-mods/out-of-sight) - (**Caused crashes, will re-add if fixed.**)
+
+
+**Changes**
+- **Disabled** the **Rick Roll** that **appears** on the **Main Menu** on **April 1st**.
+- You **now** have full **user input control** while inside a **nether portal**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **Potions Effects icons** making an **empty space** in **JEI** despite **effect icons** not **being there** is now **fixed**.
+- A **crash** related to '**@Hexerei**' "**CampfireBlockEntity**" around **Desert Temples**, etc is now **fixed**.
+- Hopefully **fixed** the '**@Supplementaries**' **config button** overlapping with **other buttons**.
+- **Fixed** a few **generator**s from '**@Generator Galore**' being **uncraftable**.
+- A few **crashes** when **placing** certain **blocks** is now **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Updated **checklist pastebin** for the "**Maniacal Dendrologist**" quest.
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.6
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.19.0</h1>
 
 **Some changes & a few fixes!** <br />
