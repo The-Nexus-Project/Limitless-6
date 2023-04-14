@@ -1,3 +1,61 @@
+<h1>v1.21.0</h1>
+
+**Fixes, few changes and 1 mod addition!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [ImmediatelyFast Reforged](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast-reforged)
+- [IDAS BOP Addon Datapack](https://www.curseforge.com/minecraft/texture-packs/idas-bop)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Made **recipes** for the **AE2 presses** **easier** to **craft**.
+- Some **small performance improvements**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- A **crash** when **looking** at a **pedestal** has been **fixed**.
+- Fixed **Dirt Generator** having no **harvest level**.
+- **Shape Cards** not working **should** now be **fixed**.
+- Fixed **missing recipe** for **@AE2 Silicon Press**.
+- Fixed a few **recipe conflicts**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Fixed** a few **quests** in the **Occultism chapter** being **uncompletable**.
+- **Removed** the **quest**: "**Lost Treasure of the Gods**".
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.6
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.20.1</h1>
 
 **Hotfix. Nether timeout crash fixed.**
