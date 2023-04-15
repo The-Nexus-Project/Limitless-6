@@ -1,3 +1,39 @@
+<h1>v1.21.1</h1>
+
+**Hotfix! Fixes lag in The End.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Fixes**
+- Fixed **chunk generation** being **extremely laggy** in **The End** and perhaps **other dimenions**.
+
+
+**Quests**
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.6
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.21.0</h1>
 
 **Fixes, few changes and 1 mod addition!**
