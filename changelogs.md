@@ -1,3 +1,62 @@
+<h1>v1.22.0</h1>
+
+**Zaps Converter mod, fixes, some quest changes & new a chapter.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Lightspeed](https://legacy.curseforge.com/minecraft/mc-mods/lightspeedmod)
+- [ModernFix](https://legacy.curseforge.com/minecraft/mc-mods/modernfix)
+- [Zaps Converter](https://legacy.curseforge.com/minecraft/mc-mods/zapsconverter)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **FE** can now be **converted** to **Zaps** from '**@Industrial Contraptions**' by **using** the **Zaps Converter** block.
+- **Added support** for all **'@Mystical Agriculture' Seeds** in the **'@Thermal Series' Phytogenic Insolator**.
+- **Pack loading times** have been **improved** quite **a bit**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **Fixed** @IE **Arc Recycling recipes** outputting **wrong materials**. (**And a few other @IE machines.**)
+- **Fixed** sorting buttons **overlapping** in certain **GUIs**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Replaced '**Treasure Chest**' rewards with a **better alternative**.
+- **Fixed** an **invalid reward** in the **Productive Bees** chapter.
+- **Added** a new **Chapter**: **Relics**.
+- Minor **changes**.
+
+
+**Updated**
+- **Forge** from version **43.2.6** to **43.2.8**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.8
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.21.2</h1>
 
 **Hotfix! Fixes a duplication bug.**
