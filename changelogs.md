@@ -1,6 +1,6 @@
 <h1>v1.22.0</h1>
 
-**Zaps Converter mod, fixes, some quest changes & new a chapter.**
+**Zaps Converter mod, fixes, some quest changes & a new chapter.**
 
 **Always remember to backup your world(s) before updating!**
 
