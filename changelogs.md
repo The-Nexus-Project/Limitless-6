@@ -10,7 +10,7 @@
 
 
 **Updated**
-- All **1** mod.
+- Updated **1** mod.
 
 
 **Current Forge Version**
