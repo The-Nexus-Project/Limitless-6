@@ -1,3 +1,69 @@
+<h1>v1.23.0</h1>
+
+**End Game Chapter, Creative Recipes, Diet, Fixes & More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged)
+- [Diet](https://www.curseforge.com/minecraft/mc-mods/diet-updated-unofficial)
+- [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities-reforged-unofficial)
+- [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
+- [Structure Essentials](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Re-enabled** and **moved** the **Ender Chest button** in **inventory** when **Ender Ring** is **equipped**.
+- You can now **optionally** have a better **Diet** to gain **positive effects**, no **negatives**.
+- **You** can now **sneak-right-click** to **open up** all **Loot Bundles** in a stack **all at once**. (**Loot Bomb!**)
+- **Moved** the **Magnet** **on/off** button **location** in **inventory**.
+- Added **recipes** for **7 Creative items / blocks**.
+- Improved **client performance** a **bit**.
+- **Added** a **recipe** for the **Elytra**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **Fixed** '**@Ad Astra**' **Landing Rockets** not **descending downwards** when **entering planets**.
+- Multiple **tools not working** on **correct harvest level & blocks** has been **fixed**.
+- Some **Packet Size** disconnect **errors** have been **fixed**.
+- **Fixed** some **JEI Info Pages** being **non-functional**.
+- **Fixed** a **recipe conflict** with **Smooth Glowstone**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Almost all rewards** while in **teams** are now **per-player**.
+- **Added** a new **Chapter**: **End Game**.
+- Minor **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.8
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.22.0</h1>
 
 **Zaps Converter mod, fixes, some quest changes & a new chapter.**
