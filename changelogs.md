@@ -1,3 +1,67 @@
+<h1>v1.24.0</h1>
+
+**A few new mods, one mod removed, some changes + fixes & more.**
+
+**Officially added Rubidium as a test, this can be reverted if tons of issues arise!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
+- [Rubidium Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra)
+- [TexTrue's Rubidium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-rubidium-options)
+
+
+**Removed**
+- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) (**Some issues.**)
+
+
+**Changes**
+- **Added** a **1% chance additional seed return** for **@MA Seeds** in the **Phytogenic Insolator**. <br />
+^ (**Note**: **This** will say '**0% additional chance**'' in **JEI**, **but** it's **1%**.)
+- **Implemented** a **better, less intrusive way** to **connect** to the **official servers**.
+- **Improved client performance** a lot by using **Rubidium**. (**Testing!**)
+- **Disabled** the **Mummy Mob** to **prevent crashes**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Fixed **@MA Seeds** in the **Phytogenic Insolator** not **giving back** the **original seed**.
+- Fixed a small **Recipe Conflict** with **Portable Crafting Table**. (**Whoops!**)
+- Fixed **recipe conflicts** with **Hollow Logs** found in the **wild**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- No **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Other**
+- **LL6** servers **hosted** on **BisectHosting** can now **enable** their **server** on the "**home panel**" to **appear** as a **public server** in the **multiplayer section**.
+
+
+**Current Forge Version**
+- 43.2.8
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.23.2</h1>
 
 **Small Update. Recipe fixes & an adjustment.**
