@@ -1,3 +1,75 @@
+<h1>v1.25.0</h1>
+
+**New mods, quite a few changes & fixes + more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Botanic Additions](https://www.curseforge.com/minecraft/mc-mods/botanic-additions)
+- [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin)
+- [Culinary Construct](https://www.curseforge.com/minecraft/mc-mods/culinary-construct)
+- [End's Delight](https://www.curseforge.com/minecraft/mc-mods/ends-delight)
+- [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
+- [Miner's Delight](https://www.curseforge.com/minecraft/mc-mods/miners-delight-plus)
+- [MythicBotany](https://legacy.curseforge.com/minecraft/mc-mods/mythicbotany)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Additional Chance** for '**@MA Seeds**' in the **Phytogenic Insolator** are now **10%** instead of **1%**.
+- Buffed '**@Thermal Series**' **Catalysts** in the **Phytogenic Insolator**.
+- **Added** some missing **Guide Books** to the **Eccentric Tome** recipe.
+- **Blacklisted** some **items** from the **Loot Bundle loot table**.
+- **Modified** the **recipe** for the **Creative Mana Pool**.
+- **Modified** the **recipe** for the **Creative Jetpack**.
+- **Added** a few **new** loading screen **tips**.
+- **Lots** of **new foods** available.
+- Some **memory improvements**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- A **crash** when **rendering** '**@Joy of Painting**' **"canvas/easel"** **in-world** has been **fixed**.
+- A **crash** related to the '**@Relics**' **"Spore Sack"** is now **fixed**.
+- Fixed **Mummys** still **spawning** and **causing crashes**.
+- Some **issues** with the **Gene Indexer** are now **fixed**.
+- Fixed **Creative Energy Cube** being **"uncraftable"**. (**Instructions in End Game Chapter.**)
+- Fixed **Creative RF Coil** being **"uncraftable"**. (**Instructions in End Game Chapter.**)
+- Fixed a few **recipe conflicts**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Fixed some **completion issues** & **invalid rewards** in the **Productive Bees** chapter.
+- **Removed** the **Unwitnessed Amulet** quest **due** to **completion issues**.
+- Added **12** new **quests** to the **Botania Chapter**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.8
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.24.0</h1>
 
 **A few new mods, one mod removed, some changes + fixes & more.**
