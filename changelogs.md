@@ -1,3 +1,61 @@
+<h1>v1.26.0</h1>
+
+**New mods, some smaller changes & more.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [CC:C Bridge](https://legacy.curseforge.com/minecraft/mc-mods/cccbridge)
+- [Compressed Creativity](https://legacy.curseforge.com/minecraft/mc-mods/compressedcreativity)
+- [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)
+- [Handcrafted](https://legacy.curseforge.com/minecraft/mc-mods/handcrafted)
+- [Hexal](https://legacy.curseforge.com/minecraft/mc-mods/hexal)
+- [ME Requester](https://www.curseforge.com/minecraft/mc-mods/merequester)
+- [Spit It Out](https://legacy.curseforge.com/minecraft/mc-mods/spit-it-out)
+- [Vitalize](https://legacy.curseforge.com/minecraft/mc-mods/vitalize)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Disabled**: **Earthworms**, **Grubs** & **Leeches** drops from **blocks**. Instead added **recipes**.
+- **Enabled** the **Crafting Table on a Stick** instead of **using** the **Crafting Pad**.
+- **Blacklisted** some **items** from the **Loot Bundle loot table**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Improved **Quest item** task **detection**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.8
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.25.0</h1>
 
 **New mods, quite a few changes & fixes + more!**
