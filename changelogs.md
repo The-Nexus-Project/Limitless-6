@@ -1,3 +1,62 @@
+<h1>v1.27.0</h1>
+
+**Some fixes & changes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Pumpkin Pie** can now be **eaten as normal** again. (**Can no longer be placed however**.)
+- **Blacklisted** some **invalid/dev items** from the **Loot Bundle** loot table.
+- **Made** the **Crafting Slab uncraftable** due to **JEI crashing issues**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **Deepslate Seed recipe conflict** has been **fixed**.
+- A **specific crash** in **The Nether** has been **fixed**.
+- Fixed **Alfsteel Tools** not being **craftable**.
+- A **@Relics crash** has been **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- No **changes**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.8
+
+
+**Notes**
+- @Create's newest update broke all @Create addons, and they all need to update to support it, which not yet all have.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.26.1</h1>
 
 **Hotfix.**
