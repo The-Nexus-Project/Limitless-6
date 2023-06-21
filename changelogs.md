@@ -1,3 +1,69 @@
+<h1>v1.28.0</h1>
+
+**Tetra, Upgrade Aquatic, some fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ad Astra: Giselle Addon](https://legacy.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon)
+- [Ad Tetra](https://legacy.curseforge.com/minecraft/mc-mods/ad-tetra)
+- [Ars Armiger](https://legacy.curseforge.com/minecraft/mc-mods/ars-armiger)
+- [Buzzier Bees](https://legacy.curseforge.com/minecraft/mc-mods/buzzier-bees)
+- [FullStack Watchdog](https://www.curseforge.com/minecraft/mc-mods/fullstack-watchdog)
+- [Just Enough Calculation](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation)
+- [Little Botanics](https://legacy.curseforge.com/minecraft/mc-mods/little-botanics)
+- [Tetra's Delight](https://legacy.curseforge.com/minecraft/mc-mods/tetras-delight)
+- [Tetra](https://legacy.curseforge.com/minecraft/mc-mods/tetra)
+- [Tetranomicon](https://legacy.curseforge.com/minecraft/mc-mods/tetranomicon)
+- [Undergarden/Tetra Patch](https://legacy.curseforge.com/minecraft/mc-mods/undergarden-tetra-patch)
+- [Upgrade Aquatic](https://legacy.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Tempad **rendering issues** have been **resolved**.
+- Fixed **Alfsteel AIOT** not being **craftable**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Added **3 new quests** to the **@Ad Astra** chapter.
+
+
+**Updated**
+- **Forge** from version **43.2.8** to **43.2.14**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.14
+
+
+**Notes**
+- @Create's newest update broke all @Create addons, and they all need to update to support it, which not yet all have.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.27.0</h1>
 
 **Some fixes & changes!**
