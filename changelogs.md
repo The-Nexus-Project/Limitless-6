@@ -1,3 +1,60 @@
+<h1>v1.29.0</h1>
+
+**Three new mods, some changes, fixes & more.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Fix GPU Memory Leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
+- [Iron Ender Chests](https://www.curseforge.com/minecraft/mc-mods/iron-ender-chests)
+- [Neruin](https://www.curseforge.com/minecraft/mc-mods/neruina)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Lowered cooldown** of the item **Ring of Undying**. (**3 hours -> 20 minutes.**)
+- Added **20 new Tips** to the **loading screen**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- **@SilentCompat** '**Ticking Entity**' **crashes** are now **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.14
+
+
+**Notes**
+- @Create's newest update broke all @Create addons, and they all need to update to support it, which not yet all have.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.28.2</h1>
 
 **Hotfix. Nether worldgen freeze crash fix.**
