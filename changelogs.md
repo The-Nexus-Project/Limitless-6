@@ -1,3 +1,60 @@
+<h1>v1.30.0</h1>
+
+**2 mod additions. Mod updates, few changes & fixes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Hang Glider](https://www.curseforge.com/minecraft/mc-mods/hang-glider)
+- [No See, No Tick](https://www.curseforge.com/minecraft/mc-mods/no-see-no-tick)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Changed number** of **backups** to **keep** from **10** -> **3**.
+- **Re-enabled** the **recipe book** in **inventory**.
+- **Added** a few **new Loading Screen tips**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Removed** a **quest** in the **Occultism chapter**.
+- **Fixed** a few **invalid quest icons**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.14
+
+
+**Notes**
+- @Create's newest update broke all @Create addons, and they all need to update to support it, which not yet all have.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.29.0</h1>
 
 **Three new mods, some changes, fixes & more.**
