@@ -1,3 +1,69 @@
+<h1>v1.31.0</h1>
+
+**2 mod additions. QoL, changes, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
+- [FTB Backups 2](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2)
+
+
+**Removed**
+- [Pinnacle (Resource Pack)](https://www.curseforge.com/minecraft/texture-packs/pinnacle)
+- [Simple Backups](https://www.curseforge.com/minecraft/mc-mods/simple-backups)
+
+
+**Changes**
+- Disabled the @SophisticatedBackpacks 'Inception Upgrade' due to issues.
+- Added @Create Crushing Wheels support for processing Ingots to Dusts.
+- Removed a Loading Screen Tip that is no longer valid & adjusted one.
+- Added Ore Processing support for Arc Metal, Plasteel & Voidmetal.
+- Disabled the World Loading Screen progress animation.
+- Lowered chances for Charged Creepers to spawn.
+- Added Resonating Ore to the Mining Dimension.
+- Re-enabled the Experience Boost enchantment.
+- Updated top-left loading screen message.
+- Some changes in mod updates, as always.
+
+
+**Fixes**
+- Fixed a Nether Wart Block crafting dupe.
+- Some fixes in mod updates, as always.
+
+
+**Quests**
+- Fixed an issue in the @Occultism chapter.
+- Adjusted the @Apotheosis Chapter for newest mod update.
+
+
+**Updated**
+- Forge from version 43.2.14 to 43.2.21
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 43.2.14
+
+
+**Notes**
+- @Create's newest update broke all @Create addons, and they all need to update to support it, which not yet all have.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.30.0</h1>
 
 **2 mod additions. Mod updates, few changes & fixes!**
