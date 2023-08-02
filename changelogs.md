@@ -44,7 +44,7 @@
 
 
 **Current Forge Version**
-- 43.2.14
+- 43.2.21
 
 
 **Notes**
