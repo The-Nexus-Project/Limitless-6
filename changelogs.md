@@ -1,3 +1,62 @@
+<h1>v1.32.0</h1>
+
+**Mod updates, fixes & a few changes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Modified** the **@Everlasting Abilities GUI** so it's **easier to see** that **4 totems** are **max**.
+- Disabled **Rotating Item Icon** in **Tooltips** for **Weapons / Equipment**.
+- Disabled **duplicate Weapon Damage / Speed tooltips**.
+- **Wilden Dens** are now **generating less frequently**.
+- Some **changes** in **mod updates**, as **always**.
+
+
+**Fixes**
+- Fixed **FTB Chunks** total **claimed chunks** not being **editable** in **FTB Ranks** or **similar**.
+- Fixed **@Cyclic No Soliciting Altar** not being **craftable**.
+- **Torchmaster** not **functioning properly** has been **fixed**.
+- Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Removed** a **quest** from the **Sophisticated Series chapter**.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.21
+
+
+**Notes**
+- **@Create's** last big update broke a lot of stuff regarding addons, so for now the mod can't be updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.31.0</h1>
 
 **2 mod additions. QoL, changes, fixes & more!**
