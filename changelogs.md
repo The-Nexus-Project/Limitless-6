@@ -1,3 +1,54 @@
+<h1>v1.33.0</h1>
+
+**Create Updated. Changes, fixes & more.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **Buffed** the **Hang Glider(s)**.
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- Some **quests** that **usually only** have a **Loot Bag** as **reward** now **give additional rewards**.
+
+
+**Updated**
+- **Create Mod** & **Addons** have **finally** been **updated**. <br />
+^ (**All issues that were preventing it are now fixed.**)
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.21
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.32.0</h1>
 
 **Mod updates, fixes & a few changes!**
