@@ -1,3 +1,53 @@
+<h1>v1.35.0</h1>
+
+**Rubidium swapped out for Embeddium & mod updates.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)
+- [TexTrue's Embeddium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options)
+
+
+**Removed**
+- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/embeddium)
+- [TexTrue's Rubidium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options)
+
+
+**Notable Changes**
+- (**!**) Some **changes** in **mod updates**, as **always**.
+
+
+**Notable Fixes**
+- (**!**) Some **fixes** in **mod updates**, as **always**.
+
+
+**Quests**
+- No **changes**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.2.21
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.34.1</h1>
 
 **Hotfix for Singularities missing.**
