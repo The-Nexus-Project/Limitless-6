@@ -1,3 +1,61 @@
+<h1>v1.36.0</h1>
+
+**Small update with mod updates, small changes & some fixes.**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Embeddium Plus](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus)
+
+
+**Removed**
+- [Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone) <br />
+  ^ (**Mod is not functional**.)
+- [What's That Slot?](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)
+
+
+**Notable Changes**
+- **Re-enabled** the **Inception Upgrade**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Fixed** an **issue** with **mobs** not **rendering past** the **50 block threshold**. <br />
+  ^ (**This includes the Ender Dragon, which could be annoying during the fight**.) <br />
+  ^ (**Distance on Mobs now follows the Entity Culling options in Embeddium settings**.)
+- Some **Fairy Light issues** have been **resolved**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Re-added** the '**Inception Upgrade**' **quest** to the **@Sophisticated Series chapter**.
+- **Moved** all **chapters** into **groups**.
+
+
+**Updated**
+- **Forge** from **version 43.2.21** to **43.3.9**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.3.9
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.35.0</h1>
 
 **Rubidium swapped out for Embeddium & mod updates.**
