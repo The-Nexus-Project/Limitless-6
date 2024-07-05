@@ -1,3 +1,63 @@
+<h1>v1.37.0</h1>
+
+**Tinkers Construct. New Quests. Fixes & changes in mod updates + more!**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Added**
+- [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+- [Tinkers Reforged](https://www.curseforge.com/minecraft/mc-mods/tinkers-reforged)
+- [Tinkers' Leveling Addon](https://www.curseforge.com/minecraft/mc-mods/tinkers-levelling-addon)
+- [WITS](https://www.curseforge.com/minecraft/mc-mods/wits)
+
+
+**Removed**
+- No mods removed.
+
+
+**Notable Changes**
+- **@Tinkers** Tools can be **applied with a new modifier** to **level up** with **XP** to get **more modifiers**. <br />
+  ^ (**Modifier name: Improvable Modifier**.)
+- **You can** now check **which mod** a **structure** is **from** with the **command**: **/wits**. <br />
+  ^ (**Note: You have to stand inside the structure.**)
+- **Very small overall changes not worth details**.
+- **Made structure generation less common**.
+- (**!**) **Changes** in **mod updates not noted here**.
+
+
+**Notable Fixes**
+- **Fixed some minor issues not worth details**.
+- (**!**) Some **fixes** not **noted** in **mod updates**, as **always**.
+
+
+**Quests**
+- **Added** a **new Chapter**: **@Tinkers Construct**.
+- **Minor fixes** & **adjusted some text**.
+
+
+**Updated**
+- (**!**) All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 43.3.9
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-6/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.36.0</h1>
 
 **Small update with mod updates, small changes & some fixes.**
